@@ -1,4 +1,5 @@
 /*g++ main.cpp -o main --std=c++14 -I/usr/local/include -lTgBot -lboost_system -lssl -lcrypto -lpthread*/
+/*если возникла ошибка при отправке комита без имени - "git pull --no-rebase" в консоль*/
 #include <stdio.h>
 #include <tgbot/tgbot.h>
 
