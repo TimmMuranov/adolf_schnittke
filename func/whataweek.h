@@ -5,7 +5,7 @@
 #pragma once
 
 #define FIRST_DAY  33 // Первый день учебы в к-ве дней от нового года
-#define FIRST_WEEK_PARITY 1 // Четность первой недели. 1 - четная, 0 - нечетная
+#define FIRST_WEEK_PARITY 0 // Четность первой недели. 1 - четная, 0 - нечетная
 
 using namespace std;
 
