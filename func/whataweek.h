@@ -2,7 +2,6 @@
 #include <string>
 #include <ctime>
 
-// Определение констант
 const int FIRST_DAY = 33; // Первый день учебы в количестве дней от нового года
 const int FIRST_WEEK_PARITY = 0; // Четность первой недели в семестре. 1 - четная, 0 - нечетная
 
