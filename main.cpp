@@ -5,7 +5,7 @@ g++ main.cpp -o bin/main --std=c++14 -I/usr/local/include -lTgBot -lboost_system
 #include <stdio.h>
 #include <tgbot/tgbot.h>
 
-#include "logs.h"
+#include "info/logs.h"
 #include "func/headers.h"
 
 int main() {
