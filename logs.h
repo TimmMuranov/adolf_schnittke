@@ -21,5 +21,6 @@ namespace logs {
     "Сайт колледжа: https://www.schnittke-mgim.ru/structure/musical-college/\n\n"
     "Расписания: http://schnittke-mgim.ru/education/timetable/\n\n"
     "Конспекты: https://drive.google.com/drive/folders/1bX2l6SKacMwgKfMbJ2yQP8_Q1IP4UYg1\n\n"
+    "Ноты тромбона: https://disk.yandex.ru/d/bwWVd9qe3Mqqb7\n\n"
     ;
 }
