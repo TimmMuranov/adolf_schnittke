@@ -17,4 +17,8 @@ namespace logs {
     "/menue\n"        // говорит сегодняшнее меню (в разработке)
     ;
 //------------------------------------------------------------------------------------------
+    std::string links = 
+    "Сайт колледжа: https://www.schnittke-mgim.ru/structure/musical-college/\n"
+    "Расписания: http://schnittke-mgim.ru/education/timetable/\n"
+    ;
 }

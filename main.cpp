@@ -20,8 +20,8 @@ int main() {
     bot.getEvents().onCommand("whataweek", [&bot](TgBot::Message::Ptr message) {
         bot.getApi().sendMessage(message->chat->id, whataweek());
     });
-    bot.getEvents().onCommand("delete", [&bot](TgBot::Message::Ptr message) {
-        //bot.getApi().deleteMessage(message->chat->id, mesHis);
+    bot.getEvents().onCommand("getlinks", [&bot](TgBot::Message::Ptr message) {
+        bot.getApi().sendMessage(message->chat->id, logs::links);
     });
 //-------------------------- обработчик сообщений ---------------------------------
     bot.getEvents().onAnyMessage([&bot](TgBot::Message::Ptr message) {
