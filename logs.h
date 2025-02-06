@@ -18,7 +18,8 @@ namespace logs {
     ;
 //------------------------------------------------------------------------------------------
     std::string links = 
-    "Сайт колледжа: https://www.schnittke-mgim.ru/structure/musical-college/\n"
-    "Расписания: http://schnittke-mgim.ru/education/timetable/\n"
+    "Сайт колледжа: https://www.schnittke-mgim.ru/structure/musical-college/\n\n"
+    "Расписания: http://schnittke-mgim.ru/education/timetable/\n\n"
+    "Конспекты: https://drive.google.com/drive/folders/1bX2l6SKacMwgKfMbJ2yQP8_Q1IP4UYg1\n\n"
     ;
 }
