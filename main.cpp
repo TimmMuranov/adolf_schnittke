@@ -9,7 +9,7 @@ g++ main.cpp -o bin/main --std=c++14 -I/usr/local/include -lTgBot -lboost_system
 #include "func/headers.h"
 
 int main() {
-    TgBot::Bot bot("7923105858:AAFPCA1cc1sacxBdUpfQP1aeWI-Rv_mTdFg");
+    TgBot::Bot bot("token");
 
     std::vector<TgBot::Message> mesHis; // должен быть список команд
 
