@@ -12,7 +12,7 @@ namespace logs {
 //------------------------------------------------------------------------------------------
     std::string commands =
     "/start\n"          // стартовая комманда. Выводит стартовые слова
-    "/getlinks\n"       // кидает полезные ссылки (в разработке)
+    "/getlinks\n"       // кидает полезные ссылки
     "/whataweek\n"      // отображает четность недели
     "/menue\n"        // говорит сегодняшнее меню (в разработке)
     ;
@@ -20,5 +20,6 @@ namespace logs {
     std::string links = 
     "Сайт колледжа: https://www.schnittke-mgim.ru/structure/musical-college/\n"
     "Расписания: http://schnittke-mgim.ru/education/timetable/\n"
+    "Чего-то не хватает? Отправьте запрос в https://github.com/TimmMuranov/adolf_schnittke/issues/new/"
     ;
 }
